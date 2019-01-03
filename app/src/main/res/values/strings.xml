@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReceiveText</string>
+    <string name="text_to_show">To receive a text you\'ve to share text from another App.</string>
+</resources>
